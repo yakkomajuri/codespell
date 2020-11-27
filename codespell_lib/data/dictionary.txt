@@ -5141,6 +5141,7 @@ clera->clear, sclera,
 clese->close
 cleses->closes
 clevely->cleverly
+Clickhouse->ClickHouse
 cliens->clients
 cliensite->client-side
 clienta->client
@@ -7797,6 +7798,7 @@ datection->detection
 datee->date
 datset->dataset
 datsets->datasets
+datta->data
 daty->data, date,
 daugher->daughter
 DCHP->DHCP
@@ -9164,8 +9166,8 @@ diffculty->difficulty
 diffeent->different
 diffence->difference
 diffenet->different
+diffenrence->difference
 diffenrences->differences
-diffenrense->difference
 differance->difference
 differances->differences
 differant->different
@@ -9188,6 +9190,7 @@ differene->difference
 differenes->differences
 differenly->differently
 differens->difference
+differense->difference
 differentiatiations->differentiations
 differents->different, difference,
 differernt->different
@@ -20762,6 +20765,7 @@ Postdam->Potsdam
 postgress->PostgreSQL
 postgressql->PostgreSQL
 postgrsql->PostgreSQL
+Posthog->PostHog
 posthomous->posthumous
 postiional->positional
 postiive->positive
