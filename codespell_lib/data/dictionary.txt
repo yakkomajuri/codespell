@@ -9165,6 +9165,7 @@ diffeent->different
 diffence->difference
 diffenet->different
 diffenrences->differences
+diffenrense->difference
 differance->difference
 differances->differences
 differant->different
@@ -14889,6 +14890,7 @@ importamt->important
 importat->important
 importd->imported
 importent->important
+importnt->important
 imporv->improve, improv,
 imporve->improve
 imporved->improved
