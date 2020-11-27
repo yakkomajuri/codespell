@@ -1,3 +1,7 @@
+**Note:** This fork is targeted on a GitHub Action spell checker for PostHog/posthog.com. The purpose of this is to allow us to quickly add new mappings that are specific to us such as `Posthog->PostHog`. All credits go to the original creators and maintainers of `codespell` for an awesome project.
+
+=========
+
 codespell
 =========
 
