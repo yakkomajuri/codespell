@@ -28,6 +28,7 @@ confectionary->confectionery
 consequentially->consequently
 coo->coup
 copping->coping, copying, cropping,
+covert->convert
 crasher->crash
 crashers->crashes
 crate->create
@@ -42,7 +43,6 @@ degrates->degrades
 dependant->dependent
 derails->details
 discontentment->discontent
-ether->either
 fallow->follow
 fallowed->followed
 fallowing->following
@@ -128,6 +128,7 @@ stings->strings
 straightaway->straight away
 straighted->straightened, straighten,
 suppressable->suppressible
+sur->sure, sir,
 therefor->therefore
 therefrom->there from
 theses->these, thesis,
@@ -149,7 +150,7 @@ whats->what's
 whet->when, what, wet,
 whiling->while
 wight->weight, white, right, write,
-wights->weights, whites, rights, writes,
+wights->weights, waits, whites, rights, writes,
 wile->while
 wit->with
 withe->with
