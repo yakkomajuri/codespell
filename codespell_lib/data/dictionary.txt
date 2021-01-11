@@ -19641,7 +19641,6 @@ optimizier->optimizer
 optimyze->optimize
 optimze->optimize
 optimzie->optimize
-optin->option
 optinal->optional
 optinally->optionally
 optio->option
