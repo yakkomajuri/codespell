@@ -19916,6 +19916,7 @@ ovelap->overlap
 over-engeneer->over-engineer
 over-engeneering->over-engineering
 overaall->overall
+overal->overall
 overcompansate->overcompensate
 overcompansated->overcompensated
 overcompansates->overcompensates
