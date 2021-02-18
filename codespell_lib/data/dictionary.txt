@@ -4339,6 +4339,7 @@ calcualtion->calculation
 calcualtions->calculations
 calcualtor->calculator
 calcuate->calculate
+calcuated->calculated
 calcuations->calculations
 calculaion->calculation
 calculatble->calculatable, calculable,
